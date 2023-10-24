@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/image_3.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Beautiful Rock";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Alexa_sentiment_analysis",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Alexa_sentiment_analysis",
+    url: "https://github.com/developerasalearner/Alexa_sentiment_analysis",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Stock Price Prediction using LSTM",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    "Stock Price Prediction using LSTM",
+    url: "https://github.com/developerasalearner/Bhaart_intern/tree/main/Stock%20Prediction",
   },
   {
-    title: "My Resume Site",
+    title: "SALES DASHBOARD OF WALMARTe",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "SALES DASHBOARD OF WALMART",
+    url: "https://github.com/developerasalearner/SALES-DASHBOARD-OF-WALMART",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "SIMPLE REMOTE BASED ON IoT",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "SIMPLE REMOTE BASED ON IoT",
+    url: "https://github.com/developerasalearner/IoT-BASED-SIMPLE-REMOTE",
   },
 ];
 
